@@ -112,7 +112,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
 
 # Contato
-Para dúvidas ou sugestões, entre em contato pelo email: seuemail@exemplo.com
+Para dúvidas ou sugestões, entre em contato pelo email: thergefonseca@gmail.com
 
 Sinta-se à vontade para personalizar este README.md de acordo com as necessidades do seu projeto!
 
