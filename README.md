@@ -41,27 +41,27 @@ Antes de começar, você precisará ter o Node.js e o npm (ou yarn) instalados e
     ```
 ou
 
-    ```bash
+    ```
     yarn install
     ```
 
-4. Crie um arquivo .env na raiz do projeto e adicione sua chave da API do TMDb:
+1. Crie um arquivo .env na raiz do projeto e adicione sua chave da API do TMDb:
     ```bash
     TMDB_API_KEY=suachavedaapi
     ```
 
-5. Inicie o aplicativo:
+2. Inicie o aplicativo:
     ```bash
     npm run start
     ```
 
 ou
 
-    ```bash
+    ```
     yarn start
     ```
 
-6. Para rodar no Android:
+1. Para rodar no Android:
 
     ```bash
     npm run android
@@ -69,7 +69,7 @@ ou
 
 ou
 
-    ```bash
+    ```
     yarn android
     ```
 
@@ -81,7 +81,7 @@ ou
 
 ou
 
-    ```bash
+    ```
     yarn ios
     ```
 
