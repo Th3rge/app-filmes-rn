@@ -86,7 +86,8 @@ ou
     
 
 
-#Estrutura do Projeto
+# Estrutura do Projeto
+
 ```
 movieapp/
 ├── src/
@@ -97,3 +98,34 @@ movieapp/
 ├── App.js               # Ponto de entrada do aplicativo
 └── package.json         # Dependências e scripts do projeto
 ```
+
+# Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+ 1. Fork o projeto
+ 2. Crie sua feature branch (git checkout -b feature/nome-da-sua-feature)
+ 3. Commit suas alterações (git commit -m 'Adicionando nova funcionalidade')
+ 4. Push para a branch (git push origin feature/nome-da-sua-feature)
+ 5. Abra um Pull Request
+   
+# Licença
+Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+
+# Contato
+Para dúvidas ou sugestões, entre em contato pelo email: seuemail@exemplo.com
+
+Sinta-se à vontade para personalizar este README.md de acordo com as necessidades do seu projeto!
+
+# Demonstração
+Para visualizar o aplicativo em ação, você pode acessar a demonstração online ou baixar o aplicativo diretamente no seu dispositivo.
+
+# Roadmap
+[ ] Implementar autenticação de usuário
+[ ] Adicionar suporte a múltiplos idiomas
+[ ] Melhorar a performance com otimizações de carregamento
+[ ] Integrar funcionalidades de compartilhamento em redes sociais
+Agradecimentos
+Agradecemos a todos os colaboradores e à comunidade do React Native por suas contribuições e suporte contínuo.
+
+# Feedback
+Se você tiver feedback ou sugestões sobre o aplicativo, não hesite em entrar em contato. Sua opinião é muito importante para nós!
