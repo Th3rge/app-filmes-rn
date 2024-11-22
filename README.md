@@ -1,4 +1,4 @@
-# MovieApp
+# APP-FILMES
 
 Um aplicativo de filmes desenvolvido em React Native que permite aos usuários explorar, pesquisar e visualizar informações sobre seus filmes favoritos. O MovieApp utiliza a API do The Movie Database (TMDb) para fornecer dados atualizados sobre filmes, incluindo sinopses, trailers, classificações e muito mais.
 
@@ -26,13 +26,13 @@ Antes de começar, você precisará ter o Node.js e o npm (ou yarn) instalados e
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/movieapp.git
+   git clone https://github.com/Th3rge/app-filmes-rn.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd movieapp
+    cd app-filmes-rn
     ```
 3. Instale as dependências:
 
@@ -89,7 +89,7 @@ ou
 # Estrutura do Projeto
 
 ```
-movieapp/
+app-filmes-rn/
 ├── src/
 │   ├── components/      # Componentes reutilizáveis
 │   ├── screens/         # Telas do aplicativo
