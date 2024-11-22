@@ -27,3 +27,61 @@ Antes de começar, você precisará ter o Node.js e o npm (ou yarn) instalados e
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/movieapp.git
+    ```
+
+2. Navegue até o diretório do projeto:
+
+    ```bash
+    cd movieapp
+    ```
+3. Instale as dependências:
+
+    ```bash
+    npm install
+    ```
+ou
+
+    ```bash
+    yarn install
+    ```
+
+4. Crie um arquivo .env na raiz do projeto e adicione sua chave da API do TMDb:
+    ```bash
+    TMDB_API_KEY=suachavedaapi
+    ```
+
+5. Inicie o aplicativo:
+    ```bash
+    npm run start
+    ```
+
+ou
+
+    ```bash
+    yarn start
+    ```
+
+6. Para rodar no Android:
+
+    ```bash
+    npm run android
+    ```
+
+ou
+
+    ```bash
+    yarn android
+    ```
+
+7. Para rodar no iOS:
+
+    ```bash
+    npm run ios
+    ```
+
+ou
+
+    ```bash
+    yarn ios
+    ```
+
