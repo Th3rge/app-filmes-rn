@@ -85,3 +85,15 @@ ou
     yarn ios
     
 
+
+#Estrutura do Projeto
+```
+movieapp/
+├── src/
+│   ├── components/      # Componentes reutilizáveis
+│   ├── screens/         # Telas do aplicativo
+│   ├── services/        # Serviços para chamadas à API
+│   └── store/           # Gerenciamento de estado (se aplicável)
+├── App.js               # Ponto de entrada do aplicativo
+└── package.json         # Dependências e scripts do projeto
+```
