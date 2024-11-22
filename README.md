@@ -120,11 +120,12 @@ Sinta-se à vontade para personalizar este README.md de acordo com as necessidad
 Para visualizar o aplicativo em ação, você pode acessar a demonstração online ou baixar o aplicativo diretamente no seu dispositivo.
 
 # Roadmap
-[ ] Implementar autenticação de usuário
-[ ] Adicionar suporte a múltiplos idiomas
-[ ] Melhorar a performance com otimizações de carregamento
-[ ] Integrar funcionalidades de compartilhamento em redes sociais
-Agradecimentos
+ 1. [ ] Implementar autenticação de usuário
+ 2. [ ] Adicionar suporte a múltiplos idiomas
+ 3. [ ] Melhorar a performance com otimizações de carregamento
+ 4. [ ] Integrar funcionalidades de compartilhamento em redes sociais
+
+# Agradecimentos
 Agradecemos a todos os colaboradores e à comunidade do React Native por suas contribuições e suporte contínuo.
 
 # Feedback
